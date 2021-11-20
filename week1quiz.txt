@@ -38,3 +38,5 @@ Answer: 1) Given genetic data from a person, predict the odds of him/her develop
 football teams and predict which team will win tomorrows match (given historical data).
 5. Which of these is a reasonable definition of machine learning?
 Answer: Machine learning is the field of study that gives computers the ability to learn without being explicity programmed. 
+
+Grade Received: 100%
