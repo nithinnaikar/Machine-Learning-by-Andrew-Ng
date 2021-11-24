@@ -1,0 +1,7 @@
+1. standardized feature (z-scored) = 0.52
+2. alpha = 0.3 is an effective choice of learning rate
+3. X is a 23x6 matrix, y is a 23x1 vector, and theta is a 6x1 vector
+4. Gradient descent, since the inverse of the matrix will be very slow to compute in the Normal equation.
+5. It speeds up gradient descent by making it run fewer iterations to get to a good solution.
+
+Grade Received: 100%
