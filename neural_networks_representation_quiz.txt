@@ -1,0 +1,9 @@
+1. 1) The activation values of the hidden units in a neural network, with the sigmoid activation function applied at every layer, are always in the range [0, 1] 2) Any logical
+function over binary-valued inputs _1 and x_2 can be approximately represented using some neural network.
+2. The neural network approximately computes the logical OR (disjunction) function. 
+3. The first equation correctly computes the activation of the 1st neuron in layer 3.
+4. The code implementation that correctly computes the activations of the 2nd layer in a vectorized format is z = Theta1 * x; a2 = sigmoid(z);
+5. Swappping values in the paramter matrix Theta for both layer 2 and layer 3 in a 3 layer neural network will not change the output, assuming you do it in a corresponding fashion
+for both layers.
+
+Grade Received: 100%
