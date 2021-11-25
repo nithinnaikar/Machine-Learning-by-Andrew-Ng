@@ -1,8 +1,7 @@
-1. 1) Introducing regularization to the model always results in equal or better performance on examples not in the training set 2) Adding a new feature always results in equal
-or better performance on the training set
-2. The first parameter vector corresponds to the execution of logistic regression with lambda (regularization parameter) = 1
-3. Adding regularization may cause your classifier to incorrectly classify some training examples (which it had correctly classified when not using regularization i.e. lambda = 0)
+1. Adding a new feature always results in equal or better performance on the training set
+2. The second parameter vector corresponds to the execution of logistic regression with lambda (regularization parameter) = 1
+3. Using too large a value of lambda can cause your hypothesis to underfit the data.
 4. In figure 1 the hypothesis has overfit the training set
 5. In figure 1 the hypothesis has underfit the training set
 
-Grade Received: 80%
+Grade Received: 100%
