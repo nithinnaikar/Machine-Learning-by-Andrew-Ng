@@ -1,0 +1,7 @@
+1. Our estimate for P(y = 1 | x ; theta) is 0.7 and, by complement rule, P(y = 0 | x ; theta) = 0.3
+2. 1) Adding polynomial features (squared and cubic terms) could increase how well we can fit the training data 2) at the optimal value of theta we will have J(theta) >= 0
+3. Equation 1 and 2 represent the correct gradient descent parameter update
+4. 1) The cost function J(theta) for logistic regression trained with m >= 1 examples is always greater than or equal to 0 2) The sigmoid function is never greater than 1
+5. Figure 4 represents the decision boundary found by the classifier 
+
+Grade Received: 80%
