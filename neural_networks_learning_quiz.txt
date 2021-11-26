@@ -1,0 +1,10 @@
+1. The fourth equation is the correct vectorization of the given step of backpropagation. 
+2. The first code block correctly recovers the original Theta2 matrix from the concatenated thetaVec. 
+3. The numerical approximation of the derivative of the cost function at theta = 1 is ~ 9.0003
+4. 1) Using gradient checking can help verify if one's implementation of backpropagation is bug-free 2) If a neural network overfits the training set, one reasonable step
+is to increase the regularization parameter lambda 
+5. 1) If you are training a neural network using gradient descent, one reasonable "debugging" step to make sure it is working is to plot the cost function as a function of 
+the number of iterations, and make sure it is decreasing or constant after each iteration 2) Depending on your random initialization, your algorithm may converge to a different
+local optima. 
+
+Grade Received: 100%
