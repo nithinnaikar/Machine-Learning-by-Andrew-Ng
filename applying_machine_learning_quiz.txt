@@ -1,0 +1,11 @@
+1. The algorithm is suffering from high variance.
+2. 1) Try using a smaller set of features 2) Try increasing the regularization paramter lambda
+3. 1) Try adding polynomial features 2) Try to obtain and use additional features
+4. 1) A typical split of a dataset into training, validation, and testing sets might be in a 60:20:20 ratio respectively. 2) Suppose you are using linear regression to 
+predict housing prices and your dataset comes sorted in increasing sizes of house. It is therefore important to randomly shuffle the dataset before splitting to ensure a fair 
+distribution for each of the subsets. 
+5. 1) If a learning algorithm is suffering from high variance, adding more training examples is likely to improve the test set error 2) If a learning algorithm is suffering from 
+high bias, only adding more training examples may not improve the test error significantly 3) A model with more parameters is more prone to overfitting and typically has higher
+variance.
+
+Grade Received: 100%
