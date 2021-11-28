@@ -1,0 +1,12 @@
+1. The classifier's F1 score is ~ 0.86
+2. 1) We train a learning algorithm with a large number of parameters (that is able to learn/represent fairly complex functions 2) The features contain 
+sufficient information to predict y accurately (which can be quantified if a human expert on the domain can confidently predict y when given only x)
+3. The classifier is likely to now have higher precision.
+4. If you always predict non-spam (output y = 0), your classifier will have an accuracy of 99% on the training set, and it will likely perform similarly on the 
+cross validation set 2) A good classifer should have both a high precision and high recall on the cross validation set 3) If you always predict non-spam, 
+your classifier will have an accuracy of 99%
+5. 1) The error analysis process of manually examining the examples which your algorithm got wrong can help suggest what are good steps to take in the future 2)
+Using a very large training set makes it unlikely for the model to overfit the training data
+
+
+Grade Received: 100%
