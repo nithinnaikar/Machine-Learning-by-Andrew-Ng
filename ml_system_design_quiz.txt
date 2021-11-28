@@ -9,4 +9,4 @@ your classifier will have an accuracy of 99%
 Using a very large training set makes it unlikely for the model to overfit the training data
 
 
-Grade Received: 100%
+Grade Received: 80% -> mistake on the first question but I highly suspect there was a rounding error in the F1 score.
