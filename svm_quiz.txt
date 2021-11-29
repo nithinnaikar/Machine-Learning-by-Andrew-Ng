@@ -1,0 +1,9 @@
+1. It would be reasonable to try decreasing C parameter. It would also be reasonable to try increasing sigma^2 parameter.
+2. Figure 4 shows the Gaussian kernel at sigma^2 = 0.25
+3. The cost term will equal 0 iff 1) For every example in which y_i = 0, we have that theta_transpose * x_i <= -1 and 2) For every example in which y_i = 1, we have that
+theta_tranpose * x >= 1
+4. Promising steps are 1) Create / add new polynomial features and 2) Try using an SVM with Gaussian kernel.
+5. 1) Suppose you have 2D input examples. The decision boundary of the SVM (with the linear kernel) is a straight line 2) The maximum value of the Gaussian kernel (i.e
+similarity(x, landmark)) is 1.
+
+Grade Received: 100%
