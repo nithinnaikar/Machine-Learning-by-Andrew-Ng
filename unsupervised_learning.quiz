@@ -1,0 +1,9 @@
+1. 1) From the usage patterns on a website, figure out what different groups of users exist. 2) Given a set of news articles from many different news websites, find out
+what are the main topics covered.
+2. c_i = 2
+3. 1) Move the cluster centroids, where the centroids mu_k are updated. 2) The cluster assignment step, where the cluster parameters c_i are updated.
+4. Compute the distortion function J for each clustering and pick the one that minimzes J.
+5. 1) For some datasets, the right/correct value of K (# of clusters) can be ambiguous, and hard even for a human expert examining the data. 2) If we are worried about K-means
+getting stuck in an undesirable local minimum, one way to alleviate this problem is to use multiple random initializations. 
+
+Grade Received: 100%
