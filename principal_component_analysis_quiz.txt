@@ -1,0 +1,9 @@
+1. Figure 1 and figure 2 correspond to the first eigenvector/principal component that PCA may return.
+2. Choose k to be the smallest value such that >= 99% of the variance is retained.
+3. LHS should be < 0.05 for at least 95% of the variance to be retained.
+4. 1) Given an n-dimensional vector x as input, PCA compresses it to a lower k-dimensional vector z as output. 2) If the input feature are on very different scales, it is a good
+idea to perform feature scaling before applying PCA. 
+5. PCA is used to 1) Data compression: reduce the dimension of data so that it takes up  less memory. 2) Data compression: Reduce the dimension of your input data x_i, which will
+be used in a supervised learning algorithm to improve running time.
+
+Grade Received: 100%
