@@ -1,0 +1,10 @@
+1. 1) In a computer chip fabrication plant, identify microchips that might be defective. 2) From a large set of primary care patient records, identify individuals who might
+have unusual health conditions.
+2. You need to increase epsilon.
+3. You should create an additional feature x3 = x1 / x2.
+4. 1) When choosing features for an anomaly detection system, it is a good idea to look for features that take on unusually small or large values for (mainly) the anomalous 
+examples. 2) If you do not have any labeled data (or if all your data has label y = 0), then it is still possible to learn p(x), but it may be harder to evaluate the system
+or choose a good value of epsilon.
+5. The Gaussian distribution will (approximately) have parameters mew_1 (mean) = -3 and sigma^2 (variance) = 2^2 = 4
+
+Grade Received: 100%
